@@ -1,0 +1,57 @@
+.main__batton {
+    background-color: coral;
+    color: white;
+}
+
+.main__batton:hover {
+    background-color: lightcoral;
+}
+
+.footer__batton {
+    background-color: coral;
+    color: white;
+}
+
+.footer__batton:hover {
+    background-color: lightcoral;
+}
+
+.nav__button {
+    background-color: #111;
+    color: white;
+}
+
+.nav__button:hover {
+    background-color: #525252;
+    color: white;
+}
+
+.navbar__batton {
+    background-color: #111;
+    color: white;
+}
+
+.navbar__batton:hover {
+    background-color: #525252;
+    color: white;
+}
+
+
+
+.nav__home-link {
+    color: #111;
+    font-weight: 500;
+}
+
+.nav__home-link:hover {
+    color: #525252;
+}
+
+.navbar__home-link {
+    color: #111;
+    font-weight: 500;
+}
+
+.navbar__home-link:hover {
+    color: #525252;
+}
